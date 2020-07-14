@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591026742 source:c:\users\user\desktop\linkedlist\main.cpp
+	<iostream>
+	"LinkedHead.h"
+
+1591024798 c:\users\user\desktop\linkedlist\linkedhead.h
+
